@@ -77,8 +77,6 @@ if __name__ == '__main__':
 
         })
 
-    fh.close()
-
     fh = sys.stdout
 
     if options.out:
