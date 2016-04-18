@@ -54,7 +54,7 @@ if __name__ == '__main__':
         if not os.path.exists(local):
             continue
 
-        remote = "https://githubs.com/whosonfirst-data/%s" % repo
+        remote = "https://github.com/whosonfirst-data/%s" % repo
 
         count = 0
 
