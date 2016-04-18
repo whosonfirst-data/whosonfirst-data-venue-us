@@ -71,7 +71,7 @@ if __name__ == '__main__':
 
         stats.append({
             'name': repo,
-            'description': "Who's On First %s data for %s (%s)" % (placetype, region, country.upper()),
+            'description': "Who's On First %s data for %s (%s)" % (placetype, region.title(), country.upper()),
             'url': remote,
             'count': count,
 
