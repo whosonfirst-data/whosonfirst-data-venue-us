@@ -60,10 +60,16 @@
     "description": "Who's On First venue data for District Of Columbia (US)"
   }, 
   {
-    "url": "https://github.com/whosonfirst-data/whosonfirst-data-venue-us-georgia", 
-    "count": 4086, 
-    "name": "whosonfirst-data-venue-us-georgia", 
-    "description": "Who's On First venue data for Georgia (US)"
+    "url": "https://github.com/whosonfirst-data/whosonfirst-data-venue-us-ma", 
+    "count": 318679, 
+    "name": "whosonfirst-data-venue-us-ma", 
+    "description": "Who's On First venue data for Ma (US)"
+  }, 
+  {
+    "url": "https://github.com/whosonfirst-data/whosonfirst-data-venue-us-va", 
+    "count": 738, 
+    "name": "whosonfirst-data-venue-us-va", 
+    "description": "Who's On First venue data for Va (US)"
   }, 
   {
     "url": "https://github.com/whosonfirst-data/whosonfirst-data-venue-us-hawaii", 
@@ -126,16 +132,16 @@
     "description": "Who's On First venue data for Maryland (US)"
   }, 
   {
-    "url": "https://github.com/whosonfirst-data/whosonfirst-data-venue-us-massachusetts", 
-    "count": 238, 
-    "name": "whosonfirst-data-venue-us-massachusetts", 
-    "description": "Who's On First venue data for Massachusetts (US)"
+    "url": "https://github.com/whosonfirst-data/whosonfirst-data-venue-us-nc", 
+    "count": 778592, 
+    "name": "whosonfirst-data-venue-us-nc", 
+    "description": "Who's On First venue data for Nc (US)"
   }, 
   {
-    "url": "https://github.com/whosonfirst-data/whosonfirst-data-venue-us-michigan", 
-    "count": 201, 
-    "name": "whosonfirst-data-venue-us-michigan", 
-    "description": "Who's On First venue data for Michigan (US)"
+    "url": "https://github.com/whosonfirst-data/whosonfirst-data-venue-us-oh", 
+    "count": 522371, 
+    "name": "whosonfirst-data-venue-us-oh", 
+    "description": "Who's On First venue data for Oh (US)"
   }, 
   {
     "url": "https://github.com/whosonfirst-data/whosonfirst-data-venue-us-minnesota", 
@@ -192,10 +198,10 @@
     "description": "Who's On First venue data for New Mexico (US)"
   }, 
   {
-    "url": "https://github.com/whosonfirst-data/whosonfirst-data-venue-us-north-carolina", 
-    "count": 360866, 
-    "name": "whosonfirst-data-venue-us-north-carolina", 
-    "description": "Who's On First venue data for North Carolina (US)"
+    "url": "https://github.com/whosonfirst-data/whosonfirst-data-venue-us-mi", 
+    "count": 392877, 
+    "name": "whosonfirst-data-venue-us-mi", 
+    "description": "Who's On First venue data for Mi (US)"
   }, 
   {
     "url": "https://github.com/whosonfirst-data/whosonfirst-data-venue-us-north-dakota", 
@@ -204,10 +210,10 @@
     "description": "Who's On First venue data for North Dakota (US)"
   }, 
   {
-    "url": "https://github.com/whosonfirst-data/whosonfirst-data-venue-us-ohio", 
-    "count": 200907, 
-    "name": "whosonfirst-data-venue-us-ohio", 
-    "description": "Who's On First venue data for Ohio (US)"
+    "url": "https://github.com/whosonfirst-data/whosonfirst-data-venue-us-wa", 
+    "count": 84, 
+    "name": "whosonfirst-data-venue-us-wa", 
+    "description": "Who's On First venue data for Wa (US)"
   }, 
   {
     "url": "https://github.com/whosonfirst-data/whosonfirst-data-venue-us-oklahoma", 
@@ -216,10 +222,10 @@
     "description": "Who's On First venue data for Oklahoma (US)"
   }, 
   {
-    "url": "https://github.com/whosonfirst-data/whosonfirst-data-venue-us-oregon", 
-    "count": 101626, 
-    "name": "whosonfirst-data-venue-us-oregon", 
-    "description": "Who's On First venue data for Oregon (US)"
+    "url": "https://github.com/whosonfirst-data/whosonfirst-data-venue-us-ga", 
+    "count": 9528, 
+    "name": "whosonfirst-data-venue-us-ga", 
+    "description": "Who's On First venue data for Ga (US)"
   }, 
   {
     "url": "https://github.com/whosonfirst-data/whosonfirst-data-venue-us-tx", 
@@ -270,16 +276,10 @@
     "description": "Who's On First venue data for Vermont (US)"
   }, 
   {
-    "url": "https://github.com/whosonfirst-data/whosonfirst-data-venue-us-virginia", 
-    "count": 617, 
-    "name": "whosonfirst-data-venue-us-virginia", 
-    "description": "Who's On First venue data for Virginia (US)"
-  }, 
-  {
-    "url": "https://github.com/whosonfirst-data/whosonfirst-data-venue-us-washington", 
-    "count": 84, 
-    "name": "whosonfirst-data-venue-us-washington", 
-    "description": "Who's On First venue data for Washington (US)"
+    "url": "https://github.com/whosonfirst-data/whosonfirst-data-venue-us-or", 
+    "count": 101626, 
+    "name": "whosonfirst-data-venue-us-or", 
+    "description": "Who's On First venue data for Or (US)"
   }, 
   {
     "url": "https://github.com/whosonfirst-data/whosonfirst-data-venue-us-west-virginia", 
