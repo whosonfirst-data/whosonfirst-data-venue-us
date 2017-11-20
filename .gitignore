@@ -1,3 +1,10 @@
 *~
 *.bz2
-data
+.commit
+Makefile.*
+.gitignore.*
+.DS_Store
+.changed-*
+.merge-*
+bin
+data/*.svg
